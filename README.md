@@ -1,0 +1,1 @@
+# no-swipe-society-admin
